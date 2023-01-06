@@ -7,9 +7,9 @@ public class BicycleRegistration
 		Bicycle tagno1,tagno2;	
 
 		bike1= new Bicycle();
-		bike1.setOwnerName("Leo Jorquia");//Setting the OwnerName 
+		bike1.setOwnerName("Chazel");//Setting the OwnerName 
 		bike2= new Bicycle();
-		bike2.setOwnerName("Tyrone Dsgalea");//Setting the OwnerName
+		bike2.setOwnerName("Kyla");//Setting the OwnerName
 
 		owner1=bike1.getOwnerName();//Getting the owner name
 		owner2=bike2.getOwnerName();
